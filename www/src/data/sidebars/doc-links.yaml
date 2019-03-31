@@ -485,6 +485,13 @@
               link: /docs/making-components-discoverable/
     - title: How Gatsby Boosts Your Career
       link: /docs/how-gatsby-boosts-career/
+- title: Partnering With Gatsby
+  link: /docs/partnering-with-gatsby/
+  items:
+    - title: Integrating and Partnering For Vendors
+      link: /docs/gatsby-vendor-partnership/
+    - title: Agency Partnership Program
+      link: /docs/gatsby-agency-partnership/
 - title: Glossary*
   link: /docs/glossary/
 - title: Commands (Gatsby CLI)
